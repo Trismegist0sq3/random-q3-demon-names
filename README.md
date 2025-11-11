@@ -129,9 +129,7 @@ Modify these values inside the script as needed.
 ---
 
 ## License
-
-This project is released under the **MIT License**.
-Feel free to fork, modify, and contribute your own chaos.
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](./LICENSE) file for details.
 
 ---
 
